@@ -46,7 +46,7 @@ int main (){
 	printf("\n 1 - Cadastro");
 	printf("\n 2 - Login");
 	printf("\n 3 - Sair");
-	pritnf("\n Digite a opção desejada: ");
+	printf("\n Digite a opção desejada: ");
 	scanf("%d", opcao);
 	
 	switch(opcao){
